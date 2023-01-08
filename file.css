@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #232536;
+    display: flex;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    margin-right: 70px;
+}
+nav ul li{
+    list-style: none;
+    color: white;
+    padding: 20px 0px;
+    padding-right: 60px;
+    font-weight: 200;
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+h1{
+    margin-left: 70px;
+    color: white;
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+}
+.subc{
+    text-align: center;
+   margin-top: 8px;
+   margin-bottom: 8px;
+   margin-left: 20px;
+   padding-left: 45px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 20px;
+   font-weight: 700;
+   background-color: white;
+   color: black;
+   align-items: center;
+
+}
+.main-section-container{
+    background-image: url('image/person.jpg.png');
+    width: 100%;
+    height: 720px;
+    background-position: center;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 80px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 350;
+    letter-spacing: 2px;
+}
+strong{
+    font-weight: bold;
+}
+.titl > h1{
+    font-size: 65px;
+    font-weight: 500;
+    margin-top: 200px;
+    margin-left: 81;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1.5px;
+    position: absulute;
+}
+.james{
+    margin-left: 76px;
+    margin-top: 20px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+}
+span{
+    color: #fdd524;
+}
+.duis{
+    padding-left: 75px;
+    margin-top: 30px;
+    color: white;
+    line-height: 1.8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+}
+button{
+    margin-left: 76px;
+    padding: 16px 50px;
+    margin-top: 35px;
+    border: 0;
+    font-weight: 700;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fdd524;
+}
