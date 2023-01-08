@@ -193,3 +193,8 @@ section{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+
+form{
+    margin-top: 100px;
+}
