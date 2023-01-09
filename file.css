@@ -50,6 +50,8 @@ h1{
     position: absolute;
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: -10px;
+    
 }
 h3{
     position: absolute;
@@ -100,4 +102,7 @@ button{
     font-size: 18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #fdd524;
+}
+p{
+    
 }
