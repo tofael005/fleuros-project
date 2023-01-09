@@ -52,6 +52,7 @@ header{
 .section-one{
     width: 900px;
     height: 200px;
+    background-image: url('image/winter-banner.jpg.jpg');
     background-color: #ffffff;
     margin: auto;
     margin-top: 100px;   
